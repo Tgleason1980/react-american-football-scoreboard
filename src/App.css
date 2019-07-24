@@ -117,6 +117,8 @@
 .homeButtons__fieldGoal,
 .awayButtons__touchdown,
 .awayButtons__fieldGoal {
+  background-color: #0d0d0d;
+  color: silver;
   margin: 1rem;
   border-radius: 4px;
 }
